@@ -1,4 +1,4 @@
-corr <- function(directory, threshold = 0)
+cor <- function(directory, threshold = 0)
 {
         # Validate directory
         if(!dir.exists(directory))
