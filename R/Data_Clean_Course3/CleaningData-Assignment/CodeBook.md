@@ -507,6 +507,7 @@ These are the activities that the subject performed while taking the measurement
 
 Note: `activity` column is converted to `factor` so that it list descriptive activity names.
 
+
 ..*1 - WALKING
 ..*2 - WALKING_UPSTAIRS
 ..*3 - WALKING_DOWNSTAIRS
